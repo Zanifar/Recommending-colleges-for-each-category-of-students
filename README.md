@@ -1,2 +1,2 @@
-# Recommending-colleges-for-each-category-of-students
-Recommending sorted list of colleges for a particular category of students.  Using different machine learning algorithms for predicting deviation.
+# Recommend-colleges-for-each-category-of-students
+Recommended sorted list of colleges for a particular category of students. Different machine learning algorithms were used for predict the deviation.
